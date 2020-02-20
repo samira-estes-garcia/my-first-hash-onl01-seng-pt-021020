@@ -1,5 +1,5 @@
 def my_hash
-  
+  makeup = { "lipstick" => "ysl", "foundation" => "fenty", "nail_polish" => "china glaze" } 
 end
 
 
